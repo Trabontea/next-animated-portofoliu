@@ -39,7 +39,11 @@ GIT
 https://github.com/safak/next-animated-portfolio/tree/starter
 
 ## Youtube
+
 https://www.youtube.com/watch?v=DJaZUFK8Kv4
 
 ## Documentation Framer motion
+
 https://www.framer.com/motion/animation/
+
+https://www.emailjs.com/
